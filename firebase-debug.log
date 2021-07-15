@@ -1,0 +1,21 @@
+[debug] [2021-07-15T19:44:13.849Z] ----------------------------------------------------------------------
+[debug] [2021-07-15T19:44:13.851Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\fabin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-07-15T19:44:13.851Z] CLI Version:   9.16.0
+[debug] [2021-07-15T19:44:13.851Z] Platform:      win32
+[debug] [2021-07-15T19:44:13.851Z] Node Version:  v14.17.0
+[debug] [2021-07-15T19:44:13.852Z] Time:          Thu Jul 15 2021 16:44:13 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2021-07-15T19:44:13.852Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-07-15T19:44:13.858Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-07-15T19:44:13.858Z] > authorizing via signed-in user (xxfabioxx43@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\fabin\OneDrive\Área de Trabalho\Rocketseat\letmeask
+
